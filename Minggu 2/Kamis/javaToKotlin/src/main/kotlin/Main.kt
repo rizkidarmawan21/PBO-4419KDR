@@ -9,5 +9,4 @@ fun main(){
     mobil1.tahun = 2022
     println("Warna Mobil : ${mobil1.warna}")
     println("Tahun Mobil : ${mobil1.tahun}")
-
 }
