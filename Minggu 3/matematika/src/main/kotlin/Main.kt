@@ -1,4 +1,7 @@
 class matematika(){
+
+    val a = 10
+
     fun tambah(a: Int, b: Int): Int {
         return a + b
     }
@@ -20,3 +23,4 @@ fun main(args: Array<String>) {
     println("Hasil perkalian: ${matematika.kali(10, 5)}")
     println("Hasil pembagian: ${matematika.bagi(10, 5)}")
 }
+
